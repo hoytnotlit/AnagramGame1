@@ -64,6 +64,7 @@ public class WordLibraryTest extends TestCase {
         }
     }
 
+    
     /**
      * Tests whether given anagram represents the word.
      * @param clearWord The word in clear text
