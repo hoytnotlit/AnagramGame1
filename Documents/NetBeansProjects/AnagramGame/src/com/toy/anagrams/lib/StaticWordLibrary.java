@@ -41,14 +41,21 @@ final class StaticWordLibrary extends WordLibrary {
         "like",
         "change",
         "potato",
-        "Java"};
+        "Java",
+        "two",
+        "more",
+        "words"
+    };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "aht",
         "keli",
         "angehc",
         "otapot",
-        "avaJ"
+        "avaJ",
+        "owt",
+        "remo",
+        "ordsw"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
