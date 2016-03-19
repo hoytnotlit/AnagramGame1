@@ -37,25 +37,29 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "hat",
-        "like",
-        "change",
-        "potato",
-        "Java",
-        "two",
-        "more",
-        "words"
+        "hest",
+        "morgen",
+        "bord",
+        "ost",
+        "tolv",
+        "fjorten",
+        "taske",
+        "flaske",
+        "venlig",
+        "engelsk"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
-        "aht",
-        "keli",
-        "angehc",
-        "otapot",
-        "avaJ",
-        "owt",
-        "remo",
-        "ordsw"
+        "seth",
+        "omregn",
+        "brod",
+        "sot",
+        "volt",
+        "fortjen",
+        "steak",
+        "falkes",
+        "genliv",
+        "keglens"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
